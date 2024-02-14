@@ -1,0 +1,61 @@
+/* register-form.css */
+.register-form {
+    max-width: 400px;
+    margin: auto;
+  }
+  .formlog1{
+    width:50%;
+    text-align: center;
+    justify-content: center;
+    margin-left:120px;
+  }
+  div[id='div3'] {
+    color:antiquewhite;
+    background-image: url('https://images.pexels.com/photos/2898204/pexels-photo-2898204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    /* background-color: #cdc5c5; */
+    width: 500px;
+    height: 1000px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size:20px;
+    align-items:center;
+    text-align: center;
+    margin-left:500px;
+  margin-top: 50px;
+  }
+  .register-form h2 {
+    text-align: center;
+  }
+  
+  .register-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .register-form label {
+    margin-bottom: 8px;
+  }
+  
+  .register-form input {
+    padding: 10px;
+    margin-bottom: 16px;
+  }
+  
+  .register-form button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .register-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .register-form p {
+    text-align: center;
+    margin-top: 16px;
+  }
+  
